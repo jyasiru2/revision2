@@ -35,7 +35,7 @@ pipeline {
                   sh 'docker ps'
                 }
               }
-        };//
+        };
 
 
 
